@@ -15,7 +15,7 @@ public class Application {
     }
 
     @RequestMapping("/Rohilio")
-    public String home() {
+    public String Rohilio() {
         return "Hello Rohilio!!!";
     }
 
